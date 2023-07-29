@@ -1,0 +1,16 @@
+.movies-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #ffffff;
+  height: 100vh;
+}
+.movies-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.blogs-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

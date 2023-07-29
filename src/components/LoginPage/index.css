@@ -1,0 +1,23 @@
+.signin-container {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+  color: #1e293b;
+  margin-bottom: 30px;
+}
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+}
+.error-text {
+  font-size: 12px;
+  font-family: 'Roboto';
+  color: #ff0b37;
+}
